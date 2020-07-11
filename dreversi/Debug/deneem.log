@@ -1,0 +1,39 @@
+﻿  Source.c
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(42,43): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(42,43): warning C4024: 'al_load_font': different types for formal and actual parameter 3
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(68,34): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(68,34): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(78,41): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(78,41): warning C4024: 'al_draw_bitmap': different types for formal and actual parameter 4
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(109,75): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(109,75): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(112,69): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(112,69): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(118,75): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(118,75): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(121,69): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(121,69): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(127,75): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(127,75): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(130,69): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(130,69): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(143,21): warning C4013: 'player_pass' undefined; assuming extern returning int
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(145,74): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(145,74): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(148,69): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(148,69): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(337,38): warning C4133: 'function': incompatible types - from 'int [8][8]' to 'char (*)[8]'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(340,48): warning C4133: 'function': incompatible types - from 'int [8][8]' to 'char (*)[8]'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(352,68): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(352,68): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(355,65): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(355,65): warning C4024: 'al_draw_text': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(568,89): warning C4047: 'function': 'int' differs in levels of indirection from 'char [20]'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(568,89): warning C4024: 'al_draw_textf': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(568,101): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(568,101): warning C4024: 'al_draw_textf': different types for formal and actual parameter 6
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(571,83): warning C4047: 'function': 'int' differs in levels of indirection from 'char [20]'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(571,83): warning C4024: 'al_draw_textf': different types for formal and actual parameter 5
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(571,95): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\SEMANUR\source\repos\deneem\deneem\Source.c(571,95): warning C4024: 'al_draw_textf': different types for formal and actual parameter 6
+  deneem.vcxproj -> C:\Users\SEMANUR\source\repos\deneem\Debug\deneem.exe
